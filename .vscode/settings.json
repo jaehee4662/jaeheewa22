@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/05e61437-c553-4044-9519-ce067da7ff98/AppServices/subscriptions/05e61437-c553-4044-9519-ce067da7ff98/resourceGroups/jaeheegr22/providers/Microsoft.Web/sites/jaeheewa22",
+    "appService.deploySubpath": "."
+}
